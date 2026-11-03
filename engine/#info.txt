@@ -1,0 +1,7 @@
+Versions:
+v1.0 Simple 3d stuff
+v1.1 Inputs :P
+
+Errors:
+ERROR 1:        OUT OF BOUNDS(INDEX)
+##note make it Color or #00FF00 not both
